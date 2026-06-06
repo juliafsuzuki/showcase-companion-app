@@ -4,8 +4,6 @@ A personal practice web app for competitive ballroom dancers learning showcase c
 
 **Live:** [showcase-genie.vercel.app](https://showcase-genie.vercel.app/)
 
-Built by Julia Suzuki ([Truly Human AI](https://trulyhuman.ai)) with Perplexity Computer.
-
 ---
 
 ## Features
