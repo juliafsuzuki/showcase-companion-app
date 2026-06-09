@@ -78,7 +78,7 @@ The repo includes `vercel.json` configuring static hosting.
 1. Drop your phrase MP4s into `clips/<showcase-id>/` (numbered, e.g. `01_Intro.mp4`)
 2. Append a new entry to `window.SHOWCASES` in `assets/showcases.js` with `id`, `title`, `subtitle`, `bpm`, `countsPerBar`, `duration`, and a `phrases` array of `{name, start, end, counts, file}`
 3. Refresh — the showcase dropdown picks it up automatically
-
+<br />
 
 ## License
 
