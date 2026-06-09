@@ -8,6 +8,9 @@ A personal practice web app for competitive ballroom dancers learning showcase c
 
 ## Features
 
+<img width="908" height="720" alt="image" src="https://github.com/user-attachments/assets/8d9c3b45-ec92-49e8-8e77-f36f1d199be4" />
+
+
 - **Two showcases** — *Friend Like Me* (Swing, 4/4) and *A Whole New World* (Waltz, 3/4)
 - **Phrase-based drilling** — each showcase split into 11–14 named musical phrases with timestamps and counts
 - **Music-locked metronome** — Web Audio API click track that arms/disarms with the play button, phase-aligned to the song's downbeat
