@@ -55,6 +55,7 @@ python3 -m http.server 8765
 ```
 
 No build step. No dependencies. Edit files and refresh.
+
 <br />
 
 ## Deploy
@@ -64,6 +65,7 @@ vercel deploy --prod
 ```
 
 The repo includes `vercel.json` configuring static hosting.
+
 <br />
 
 ## Access
@@ -71,6 +73,7 @@ The repo includes `vercel.json` configuring static hosting.
 <img width="916" height="722" alt="image" src="https://github.com/user-attachments/assets/7327b22a-0872-46f0-8bf2-5765faf2f4b8" />
 
 👉 https://showcase-genie.vercel.app/
+
 <br />
 
 ## Adding a New Showcase
