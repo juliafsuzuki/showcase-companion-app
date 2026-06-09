@@ -7,9 +7,6 @@ There is a process for learning a new choreography effectively. One component is
 
 ## Features
 
-<img width="916" height="722" alt="image" src="https://github.com/user-attachments/assets/7327b22a-0872-46f0-8bf2-5765faf2f4b8" />
-
-
 - **Two showcases** — *Friend Like Me* (Swing, 4/4) and *A Whole New World* (Waltz, 3/4)
 - **Phrase-based drilling** — each showcase split into 11–14 named musical phrases with timestamps and counts
 - **Music-locked metronome** — Web Audio API click track that arms/disarms with the play button, phase-aligned to the song's downbeat
@@ -63,6 +60,12 @@ vercel deploy --prod
 
 The repo includes `vercel.json` configuring static hosting.
 
+
+## Access
+
+👉 showcase-genie.vercel.app
+
+<img width="916" height="722" alt="image" src="https://github.com/user-attachments/assets/7327b22a-0872-46f0-8bf2-5765faf2f4b8" />
 
 ## Adding a New Showcase
 
