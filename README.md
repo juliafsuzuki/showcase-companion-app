@@ -4,6 +4,7 @@ I vibe coded an app that I can use to practice my Showcase Genie. Showcase Genie
 There is a process for learning a new choreography effectively. One component is to break the entire choreography into musical phrases (digestable segments) so I can focus on one phrase at a time and stich more than one phrases together. Over time, I will have learned the entire choreography. This app helped me break the entire choreography into musical phrases and added helpful features such as Speed, Counts, Metrome, Repeat, and Mirror. 
 
 ---
+<br />
 
 ## Features
 
