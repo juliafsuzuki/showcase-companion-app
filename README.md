@@ -1,13 +1,13 @@
 # Showcase Practice — Genie
 
-A personal practice web app for competitive ballroom dancers learning showcase choreography. Pick a showcase, drill it one rhythmical phrase at a time, with a music-locked metronome, live count overlay, mirror mode, and adjustable playback speed.
+<img width="741" height="474" alt="image" src="https://github.com/user-attachments/assets/1b4c9ce6-6a89-4f32-acb8-418dca75cb35" />
 
+I vibe coded an app that I can use to practice my Showcase Genie. Showcase Genie comprises of two showcase choreographies (Smooth choreography with music, A Whole New World, Rhythm choreography with music, Friend Like Me).
+There is a process for learning a new choreography effectively. One component is to break the entire choreography into musical phrases (digestable segments) so I can focus on one phrase at a time and stich more than one phrases together. Over time, I will have learned the entire choreography. This app helped me break the entire choreography into musical phrases and added helpful features such as Speed, Counts, Metrome, Repeat, and Mirror. 
 
 ---
 
 ## Features
-
-<img width="908" height="720" alt="image" src="https://github.com/user-attachments/assets/8d9c3b45-ec92-49e8-8e77-f36f1d199be4" />
 
 
 - **Two showcases** — *Friend Like Me* (Swing, 4/4) and *A Whole New World* (Waltz, 3/4)
@@ -25,6 +25,7 @@ A personal practice web app for competitive ballroom dancers learning showcase c
 - **Audio:** Web Audio API (metronome)
 - **Hosting:** Vercel (static, global edge CDN)
 - **Built with:** Perplexity Computer (Claude Sonnet 4.6)
+
 
 ## Project Structure
 
@@ -53,6 +54,7 @@ python3 -m http.server 8765
 
 No build step. No dependencies. Edit files and refresh.
 
+
 ## Deploy
 
 ```bash
@@ -61,11 +63,13 @@ vercel deploy --prod
 
 The repo includes `vercel.json` configuring static hosting.
 
+
 ## Adding a New Showcase
 
 1. Drop your phrase MP4s into `clips/<showcase-id>/` (numbered, e.g. `01_Intro.mp4`)
 2. Append a new entry to `window.SHOWCASES` in `assets/showcases.js` with `id`, `title`, `subtitle`, `bpm`, `countsPerBar`, `duration`, and a `phrases` array of `{name, start, end, counts, file}`
 3. Refresh — the showcase dropdown picks it up automatically
+
 
 ## License
 
