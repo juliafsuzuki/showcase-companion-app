@@ -1,4 +1,4 @@
-# Personal Assistance - Showcase Genie
+# Personal Assistance - Genie Showcases (2)
 
 I vibe-coded an app to help me practice my Showcase Genie routines. Showcase Genie consists of two showcase choreographies: 
 - A Smooth routine danced to "A Whole New World"
