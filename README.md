@@ -27,7 +27,7 @@ This app automated the process of breaking a choreography into musical phrases a
 - **Frontend:** Static HTML / CSS / JavaScript — no framework
 - **Audio:** Web Audio API (metronome)
 - **Hosting:** Vercel (static, global edge CDN)
-- **Built with:** Perplexity Computer (Claude Sonnet 4.6)
+- **Built with:** Perplexity Computer (Claude Sonnet 4.6): https://www.perplexity.ai/computer/tasks/04d10b3c-cd4e-4679-859a-1890595dcdbb?return_url=%2Fspaces%2Fthe-billion-dollar-build-BRnreFtKS1GsOzpvVrcOow&return_label=space&view=thread
 <br />
 
 ## Project Structure
